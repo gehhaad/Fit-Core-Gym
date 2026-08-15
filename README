@@ -2,6 +2,10 @@
 
 A modern gym landing page designed to introduce a fitness center, highlight its key benefits, showcase member testimonials, and encourage visitors to join through a membership form.
 
+## Live Demo
+
+(https://gehhaad.github.io/Fit-Core-Gym/)
+
 ## Overview
 
 Fit Core Gym is a landing page created as part of a Front-End development assignment.
@@ -32,12 +36,27 @@ This project focuses on practicing fundamental CSS layout techniques, including:
 - Section-based page structure
 - Image positioning and styling
 
+## Screenshots
+
+### Hero Page & Why Choose Us
+
+![Hero Page & Why Choose Us](screenshots/hero page and why-choose-us.jpeg)
+
+### Testimonials
+
+![Testimonials](screenshots/testimonials.jpeg)
+
+### Membership Form
+
+![Membership Form](screenshots/membership-form.jpeg)
+
+
 ## Project Structure
 
-```text
 Fit-Core-Gym/
 │
+├── images/
+├── screenshots/
 ├── index.html
 ├── style.css
-└── images/
-    └── project images
+└── README.md
