@@ -40,7 +40,7 @@ This project focuses on practicing fundamental CSS layout techniques, including:
 
 ### Hero Page & Why Choose Us
 
-![Hero Page & Why Choose Us](screenshots/hero page and why-choose-us.jpeg)
+![Hero Page & Why Choose Us](screenshots/hero-page&why-choose-us.jpeg)
 
 ### Testimonials
 
