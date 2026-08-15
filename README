@@ -1,0 +1,43 @@
+# Fit Core Gym 🏋️
+
+A modern gym landing page designed to introduce a fitness center, highlight its key benefits, showcase member testimonials, and encourage visitors to join through a membership form.
+
+## Overview
+
+Fit Core Gym is a landing page created as part of a Front-End development assignment.
+
+The main goal of the project is to provide visitors with a clear overview of the gym, highlight its advantages, build trust through member testimonials, and encourage users to join through a membership form.
+
+## Features
+
+- Hero section with a strong visual introduction and call-to-action
+- "Why Choose Us" section highlighting the gym's key benefits
+- "What Our Members Say" section for customer testimonials
+- Membership form for collecting user information
+- Structured and visually organized landing page
+- Image-based visual sections
+
+## Technologies
+
+- HTML5
+- CSS3
+
+## CSS Techniques
+
+This project focuses on practicing fundamental CSS layout techniques, including:
+
+- Float-based layouts
+- `inline-block` for the testimonials section
+- Custom styling and positioning
+- Section-based page structure
+- Image positioning and styling
+
+## Project Structure
+
+```text
+Fit-Core-Gym/
+│
+├── index.html
+├── style.css
+└── images/
+    └── project images
