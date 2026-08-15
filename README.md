@@ -53,6 +53,7 @@ This project focuses on practicing fundamental CSS layout techniques, including:
 
 ## Project Structure
 
+```text
 Fit-Core-Gym/
 │
 ├── images/
